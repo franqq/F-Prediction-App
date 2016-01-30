@@ -1,0 +1,25 @@
+The self-contained directory 
+
+	"C:\Users\franq\Desktop\New folder (3)\NSE Predictor-native"
+
+has been successfully created. The application executable(s) placed into it will run
+without any extra settings such as PATH.
+ 
+INSTALLATION PROCEDURE
+ 
+You can deploy the directory to target systems by a simple copy operation,
+burn it to CD or supply it as input to a third-party installation tool.
+ 
+AUTOMATIC BUILD
+ 
+To build the package without invoking the JetPackII GUI wizard, use the following
+command:
+
+	xpack "C:\Users\franq\Desktop\New folder (3)\NSE Predictor.jpn"
+
+The files will be created in the directory
+
+	"C:\Users\franq\Desktop\New folder (3)\NSE Predictor-native".
+
+Advanced build options are described in the JET Users Guide,
+chapter "Deployment automation", section "Deployment utilities".
